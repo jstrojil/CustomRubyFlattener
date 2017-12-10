@@ -2,6 +2,7 @@
 
 A custom implementation of Ruby's flatten method.
 <h1> Usage </h1>
+
 ```ruby
 require 'flattener.rb'
 
